@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">lab-db</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="nameHint">Name:</string>
+    <string name="surnameHint">Surname:</string>
+    <string name="commentHint">Comment:</string>
+    <string name="searchHint">Search:</string>
+    <string name="addUser">+</string>
+    <string name="totalRecords">Total Records: </string>
+    <string name="foundRecords">Found Records: </string>
+</resources>
